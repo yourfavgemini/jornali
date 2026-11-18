@@ -1,5 +1,4 @@
-## ![photo](screenshots/Group.png)
-
+![Journali screens](Group.png)
 # Journali
 
 Journali is a journaling app for iPhone where you can write, organize and revisit your personal diary entries. It has a dark, minimal design with liquid glass alerts, and your journals are saved on your device.
