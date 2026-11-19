@@ -21,4 +21,4 @@ Journali is a journaling app for iPhone where you can write, organize and revisi
 - **Liquid Glass** (iOS 26) for the custom alerts
 - **Sketch** for the UI design and design system (colors and SF Pro typography)
 
-Made by Reema.
+Made by Reema
