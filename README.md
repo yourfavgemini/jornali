@@ -5,7 +5,6 @@ Journali is a journaling app for iPhone where you can write, organize and revisi
 
 ## Main features
 
-- **Splash screen** that fades into the app on launch
 - **Empty state** that guides you to write your first journal
 - **Create and edit journals** with a title and free-form text
 - **Bookmark** your favorite journals with one tap
